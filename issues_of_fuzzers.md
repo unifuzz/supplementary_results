@@ -64,7 +64,7 @@ https://github.com/mrash/afl-cov/issues/40
 
 ## QSYM
 
-https://github.com/sslab-gatech/qsym/issues/43?tdsourcetag=s_pcqq_aiomsg
+https://github.com/sslab-gatech/qsym/issues/43
 
 
 
